@@ -5,7 +5,7 @@
 
 - 👨‍💻 Meus projetos estão: [https://github.com/renatofilhog?tab=repositories](https://github.com/renatofilhog?tab=repositories)
 
-- 💬 Me pergunte sobre ** JavaScript, PHP, MySql, CSS3, HTML5**
+- 💬 Me pergunte sobre **JavaScript, PHP, MySql, CSS3, HTML5**
 
 - 📫 Contato: **frenato258@gmail.com**
 
