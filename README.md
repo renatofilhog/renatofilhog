@@ -9,7 +9,7 @@
 
 - 📫 Contato: **frenato258@gmail.com**
 
-- 📄 Conheça minhas experiências em: [https://www.linkedin.com/in/renatofilhog/](https: //www.linkedin.com/in/renatofilhog/)
+- 📄 Conheça minhas experiências em: [https://www.linkedin.com/in/renatofilhog](https: //www.linkedin.com/in/renatofilhog/)
 
 - ⚡ Curiosidade **Sou um fã de Friends e inspiro minhas piadas no Chandler**
 
