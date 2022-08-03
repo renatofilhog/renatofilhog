@@ -2,7 +2,7 @@
 <h3 align="center">Fã e admirador de tecnologias em desenvolvimento Full Stack</h3>
 
 # 💫 Sobre mim:
-🌱 Atualmente estudando Bootstrap, Typescript, NodeJS, PHP<br><br>👨‍💻 Meus projetos estão em: https://github.com/renatofilhog?tab=repositories<br><br>💬 Me pergunte sobre: JavaScript, PHP, MySql, CSS3, HTML5<br><br>📫 Contato: frenato258@gmail.com<br><br>📄 Conheça minhas experiências em: https://www.linkedin.com/in/renatofilhog<br><br>⚡ Curiosidade: Sou um fã de Friends e inspiro minhas piadas no Chandler
+🌱 Atualmente estudando PHP, Typescript, ReactJS e NodeJS <br><br>👨‍💻 Meus projetos estão em: https://github.com/renatofilhog?tab=repositories<br><br>💬 Me pergunte sobre: JavaScript, PHP, MySql, CSS3, HTML5<br><br>📫 Contato: frenato258@gmail.com<br><br>📄 Conheça minhas experiências em: https://www.linkedin.com/in/renatofilhog<br><br>⚡ Curiosidade: Sou um fã de Friends e inspiro minhas piadas no Chandler
 
 
 ## 🌐 Redes Sociais:
