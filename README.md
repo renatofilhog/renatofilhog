@@ -2,7 +2,6 @@
 <h3 align="center">Fã e admirador de tecnologias Full Stack</h3>
 
 # 💫 Sobre mim:
-Desenvolvedor web, com experiência freelancer usando PHP para back-end e JavaScript com HTML/CSS para front-end. <br>
 🌱 Atualmente estudando PHP, Laravel, Typescript e ReactJS <br><br>👨‍💻 Meus projetos estão em: https://github.com/renatofilhog?tab=repositories<br><br>💬 Me pergunte sobre: JavaScript, PHP, MySql, CSS3, HTML5<br><br>📫 Contato: frenato258@gmail.com<br><br>📄 Conheça minhas experiências em: https://www.linkedin.com/in/renatofilhog<br><br>⚡ Curiosidade: Sou um fã de Friends e inspiro minhas piadas no Chandler
 
 
