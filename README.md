@@ -1,14 +1,9 @@
-<h1 align="center">Olá 👋, Me chamo Renato Filho</h1>
-<h3 align="center">Fã e admirador de tecnologias Full Stack</h3>
+### Hi, I’m Renato 👋
 
-# 💫 Sobre mim:
-🌱 Atualmente estudando PHP, Laravel, Typescript e ReactJS <br><br>👨‍💻 Meus projetos estão em: https://github.com/renatofilhog?tab=repositories<br><br>💬 Me pergunte sobre: JavaScript, PHP, MySql, CSS3, HTML5<br><br>📫 Contato: frenato258@gmail.com<br><br>📄 Conheça minhas experiências em: https://www.linkedin.com/in/renatofilhog<br><br>⚡ Curiosidade: Sou um fã de Friends e inspiro minhas piadas no Chandler
+Backend-focused developer with experience in Java, Node.js, and Magento.  
+I build scalable solutions focused on business optimization and cost reduction.
 
+- LinkedIn: https://linkedin.com/in/renatofilhog  
+- Email: frenato258@gmail.com
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renatofilhof) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renatofilhog) 
-
-# 💻 Conhecimento em:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento%202-e34f26?style=for-the-badge&logo=magento&logoColor=white)
-
+#### Fun fact: I’m a fixed gear cyclist.
